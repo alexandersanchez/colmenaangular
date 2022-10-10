@@ -1,3 +1,8 @@
+Use Yarn install
+Yarn build 
+Yarn start 
+
+
 ![MDB Logo](https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-angular.png)
 
 # MDB 5 Angular
